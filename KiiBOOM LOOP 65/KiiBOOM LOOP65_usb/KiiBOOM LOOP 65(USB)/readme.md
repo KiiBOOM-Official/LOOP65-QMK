@@ -1,8 +1,9 @@
-# L66
+# KiiBOOM LOOP65
 
-* Keyboard Maintainer: [sdk66](https://github.com/sdk66)
-* Hardware Supported: L66
-* Hardware Availability: [xxx](https://www.xxx.com)
+* Keyboard Maintainer: https://github.com/sdk66
+* Hardware Supported: KiiBOOM
+* Hardware Availability: KiiBOOM LOOP65
+* Note: this is the wired code for KiiBOOM Loop65. The wireless code is waiting to be updated and checked by the QMK team. Don't use it to flash your keyboard unless you've consulted.
 
 Make example for this keyboard (after setting up your build environment):
 
